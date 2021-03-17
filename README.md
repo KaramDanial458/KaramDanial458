@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KaramDanial458
-- 👀 I’m interested in art, guitar, and deep-space photography
-- 🌱 I’m currently learning AWS, Javascript, and Cisco Web API
+- 👋 Hey, I’m Karam
+- 👀 I’m interested in gaming, guitar, and deep-space photography
+- 🌱 I’m currently working on my AWS, Node.js, and Leetcoding skills 
 - 💞️ I’m looking to collaborate on anything that sounds cool :)
 - 📫 How to reach me karamdanial31@gmail.com | kdanial@uwaterloo.ca | 647-574-3693
 
