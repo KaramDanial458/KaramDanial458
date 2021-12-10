@@ -1,7 +1,6 @@
 - 👋 Hey, I’m Karam
 - 👀 I’m interested in gaming, guitar, and deep-space photography
-- 🌱 I’m currently working on my AWS, Node.js, and Leetcoding skills 
-- 💞️ I’m looking to collaborate on interesting software projects :)
+- 🌱 I’m currently looking for a full-time software position for 2022
 - 📫 How to reach me karamdanial31@gmail.com | kdanial@uwaterloo.ca | 647-574-3693
 
 <!---
